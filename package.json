@@ -10,14 +10,12 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "cypress": "^9.5.4",
+  "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^9.0.5",
     "@cypress/webpack-preprocessor": "latest",
+    "cypress": "^9.5.4",
     "ts-loader": "latest",
-    "typescript": "latest"
-  },
-  "dependencies": {
-    
+    "typescript": "latest",
+    "webpack": "^5.72.0"
   }
 }
