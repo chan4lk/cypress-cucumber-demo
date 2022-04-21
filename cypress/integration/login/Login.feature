@@ -1,4 +1,4 @@
-Feature: duckduckgo.com
-  Scenario: visting the frontpage
-    When I visit duckduckgo.com
-    Then I should see a search bar
+Feature: Login
+  Scenario: visting the login screen
+    When I visit sharpcloud
+    Then I should see login prompt
