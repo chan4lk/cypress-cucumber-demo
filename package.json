@@ -6,16 +6,16 @@
   "scripts": {
     "test": "cypress run",
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "clear": "cypress cache clear"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@badeball/cypress-cucumber-preprocessor": "^9.0.5",
+    "@badeball/cypress-cucumber-preprocessor": "latest",
     "@cypress/webpack-preprocessor": "latest",
-    "cypress": "^9.5.4",
+    "cypress": "latest",
     "ts-loader": "latest",
-    "typescript": "latest",
-    "webpack": "^5.72.0"
+    "typescript": "latest"
   }
 }

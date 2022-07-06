@@ -1,8 +1,0 @@
-{
-    "baseUrl": "https://my.sharpcloud.com",
-    "testFiles": "**/*.feature",
-    "chromeWebSecurity": false,
-    "defaultCommandTimeout": 10000,
-    "pageLoadTimeout": 60000,
-    "video":false
-}
